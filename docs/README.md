@@ -1,10 +1,9 @@
 # 🍋 LemonBreak - Advanced Hash Cracking Tool
 
-![imagen](https://github.com/90l3m0np13/LemonBreak/blob/main/docs/App.png)
 
 Herramienta inteligente para cracking de hashes que genera variantes de contraseña automáticamente.
 
-## 🔥 Features
+# 🔥 Features
 - Generación automática de variantes (leet speak, mayúsculas, símbolos)
 - Soporte para MD5, SHA1, SHA256
 - Interfaz interactiva con colores
@@ -35,8 +34,15 @@ chmod +x src/lemonbreak.py
 ```bash
 sudo ln -s $(pwd)/src/lemonbreak.py /usr/local/bin/lemonbreak
 ```
-
-## 💻 Uso básico
+## 7. Abrir la aplicación con python
 ```bash
-lemonbreak
-```
+python3 ~/LemonBreak.py
+````
+![imagen](https://github.com/90l3m0np13/LemonBreak/blob/main/docs/App.png)
+
+# 🚨 Requisitos
+Kali Linux (o cualquier distro basada en Debian)
+
+Python 3.8+
+
+Conexión a internet para la instalación
