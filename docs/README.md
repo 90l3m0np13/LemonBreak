@@ -1,6 +1,6 @@
 # 🍋 LemonBreak - Advanced Hash Cracking Tool
 
-![Lemon Logo](assets/lemon_logo.png)
+![imagen](https://github.com/90l3m0np13/LemonBreak/blob/main/docs/App.png)
 
 Herramienta inteligente para cracking de hashes que genera variantes de contraseña automáticamente.
 
