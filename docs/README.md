@@ -13,10 +13,20 @@ Herramienta inteligente para cracking de hashes que genera variantes de contrase
 ## 🚀 Instalación en Kali Linux
 ```bash
 sudo apt update && sudo apt install -y python3 python3-pip git
-git clone https://github.com/tuusuario/LemonBreak.git
+````
+```bash
+git clone https://github.com/90l3m0np13/LemonBreak.git
+````
+```bash
 cd LemonBreak
+````
+```bash
 pip3 install -r requirements.txt
+````
+```bash
 chmod +x src/lemonbreak.py
+````
+```bash
 sudo ln -s $(pwd)/src/lemonbreak.py /usr/local/bin/lemonbreak
 ```
 
